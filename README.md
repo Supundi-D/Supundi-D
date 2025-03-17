@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Supundi-D
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
-- 📫 Reach me on IG as Supu_Dinaya
+- 👋 Hi, I’m @Supundi-D.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning flutter.
+- 📫 Reach me on IG as Supu_Dinaya.
 - ⚡ Fun fact: FIDE is 100 years old.
 
 <!---
