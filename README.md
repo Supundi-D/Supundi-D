@@ -1,12 +1,9 @@
-👋 Hi, I'm Supundi Goonerathne
+👋 Hi, I'm Supundi Dinaya Goonerathne
 
 💼 Computer Science Undergraduate
 
 📧 supundidinaya@gmail.com
 
-📞 +94 718967553
-
----
 
 🚀 Passionate about software development and modern web technologies, with hands-on experience in building full-stack, real-time, and user-friendly web applications.
 
